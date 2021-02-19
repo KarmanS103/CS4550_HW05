@@ -5,16 +5,17 @@ Please fill in answers to the questions below:
 Karman Singh 
 
 2. What hostname did you deploy to?
-
+hw05.disguisedpanda.com
 
 3. Which parts of this assignment did you have trouble with, if any?
-
+Deployment was a bit rought, but figured it out eventually. 
 
 4. What part of your application state is on the server?
-
+All of it. 
 
 5. What part of your application state, if any, is in the browser?
-
+The only useState I had besides the server state was for controlled text input from the user.
+I believe Professor Tuck said that was OK. 
 
 And here's a list of tasks for grading comments. Just leave this here:
  - Task 1
