@@ -3,7 +3,7 @@
 export MIX_ENV=prod
 export PORT=4801
 
-CFGD=$(readlink -f ~/.config/hangman)
+CFGD=$(readlink -f ~/.config/bulls)
 
 if [ ! -e "$CFGD/base" ]; then
     echo "Need to deploy first"
